@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/Responsive Personal Portfolio Website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pro to publish"
+	}
+}
