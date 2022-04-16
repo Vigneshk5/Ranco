@@ -1,1 +1,1 @@
-# Ranco
+https://ranco.netlify.app
